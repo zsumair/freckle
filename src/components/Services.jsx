@@ -7,23 +7,23 @@ function Services() {
   const services = [
     {
       icon: BriefcaseIcon,
-      title: "Work-Life Balance",
+      title: "Lorem ipsum",
       description:
-        "Many remote jobs also come with flexible schedules, which means that workers can start and end their day as they choose.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       color: "bg-orange",
     },
     {
       icon: LocationIcon,
-      title: "Work Anywhere",
+      title: "Lorem ipsum",
       description:
-        "Having access to a broader range of job opportunities that aren’t limited by geographic location. This can be especially helpful.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       color: "bg-blue",
     },
     {
       icon: ProfileIcon,
-      title: "Improved Inclusivity",
+      title: "Lorem ipsum",
       description:
-        "Remote work enables companies to embrace diversity and inclusion by hiring people from different backgrounds.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       color: "bg-pink",
     },
   ];

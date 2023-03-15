@@ -6,22 +6,22 @@ function Hero() {
       <div className="flex flex-col-reverse items-center md:flex-row lg:items-end">
         <div className="pt-24 pr-8 pb-24 text-center md:pb-12 md:w-1/2 md:text-left">
           <h1 className="relative z-10 text-5xl font-bold md:text-6xl font-display">
-            Learn the{" "}
-            <span className="relative after:content-[url(/img/scratch.svg)] after:absolute after:-top-2 after:-right-9 after:-z-1">
-              best
-            </span>{" "}
-            ways for staying{" "}
+            Get the{" "}
             <span className="relative after:content-[url(/img/decoration.svg)] after:absolute after:-bottom-2 after:-right-8 after:-z-1">
               productive
             </span>
+            ways for staying active{" "}
+            {/* <span className="relative after:content-[url(/img/decoration.svg)] after:absolute after:-bottom-2 after:-right-8 after:-z-1">
+              productive
+            </span> */}
           </h1>
           <p className="pt-8 text-lg leading-relaxed text-gray-500 md:max-w-md md:text-xl">
-            Working at home is definitely a convenient option and makes sense in
-            these unprecedented times.
+            It is a long established fact that a reader will be distracted by
+            the readable content of a page when looking at its layout.
           </p>
           <div className="flex justify-center items-center pt-12 space-x-6 md:justify-start">
-            <button className="flex justify-center items-center py-4 px-8 font-bold tracking-wide leading-7 text-white bg-blue-600 rounded-xl hover:shadow-xl">
-              Get Tips
+            <button className="flex justify-center items-center py-4 px-8 font-bold tracking-wide leading-7 text-white bg-pink-600 rounded-xl hover:shadow-xl">
+              Get Started
             </button>
             <button className="flex items-center">
               <PlayButton className="drop-shadow-lg hover:drop-shadow-xl" />
